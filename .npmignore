@@ -1,0 +1,13 @@
+# The .npmignore File
+package.json
+package-lock.json
+README
+CHANGELOG
+LICENSE
+
+scripts
+src
+.babelrc
+.eslintrc
+webpack.config.js
+webpack.parts.js
